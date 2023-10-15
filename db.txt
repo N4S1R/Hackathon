@@ -1,0 +1,56 @@
+[
+      {
+            id: 2,
+            name: "Hyundai Sonata",
+            description: "Avtomobil əla vəziyyətdədir. Heç bir problemi yoxdur.",
+            img: "https://turbo.azstatic.com/uploads/full/2023%2F09%2F26%2F21%2F24%2F15%2F5d7ff7c5-802b-404c-bfb5-82408d53b8d1%2F91818_DuDPpb-gPkau0y6_0ySBxw.jpg",
+            ownerId: "",
+            rating: 3,
+            priceOfHours: 34
+      }, 
+        {
+            id: 3,
+            name: "Mercedes GLK 300",
+            description: "Avtomobil əla vəziyyətdədir. Heç bir problemi yoxdur.",
+            img: "https://turbo.azstatic.com/uploads/full/2023%2F10%2F13%2F14%2F28%2F14%2Fb6891c5a-19a2-47db-9d37-3f8bdae9a2e5%2F91834_44901Sr69DJpZrcZPbivCg.jpg",
+            ownerId: "",
+            rating: 4,
+            priceOfHours: 65
+      }, 
+    {
+            id: 4,
+            name: "Toyota Camry",
+            description: "Avtomobil əla vəziyyətdədir. Heç bir problemi yoxdur.",
+            img: "https://turbo.azstatic.com/uploads/full/2023%2F10%2F11%2F09%2F43%2F16%2Fadb06b72-148a-43ec-96de-baff149a73bb%2F88097_pV_egTC-20_ifT9KtTtQpg.jpg",
+            ownerId: "",
+            rating: 5,
+            priceOfHours: 55
+      }, 
+{
+            id: 5,
+            name: "Opel Astra",
+            description: "Avtomobil əla vəziyyətdədir. Heç bir problemi yoxdur.",
+            img: "https://turbo.azstatic.com/uploads/full/2023%2F10%2F06%2F20%2F12%2F24%2Fdeae5bf3-fc96-4cc3-99c7-7e826d60d408%2F91811_y8XwXAO7SN-1sFsGfG8pRg.jpg",
+            ownerId: "",
+            rating: 3,
+            priceOfHours: 29
+      }, 
+{
+            id: 6,
+            name: "BMW 530e",
+            description: "Avtomobil əla vəziyyətdədir. Heç bir problemi yoxdur.",
+            img: "https://turbo.azstatic.com/uploads/full/2023%2F08%2F27%2F10%2F39%2F43%2F4a700f77-faa8-4cad-a14c-480be7a45aef%2F88100_vKsnFVMmwtfJgdPPOAT9OA.jpg",
+            ownerId: "",
+            rating: 5,
+            priceOfHours: 110
+      },
+{
+            id: 7,
+            name: "Mercedes E 220",
+            description: "Avtomobil əla vəziyyətdədir. Heç bir problemi yoxdur.",
+            img: "https://turbo.azstatic.com/uploads/full/2023%2F01%2F29%2F15%2F47%2F40%2F7dfc955e-b785-42e7-a144-be02bd43da80%2F67183_mtDDW8hsuaooUfk3kmobCQ.jpg",
+            ownerId: "",
+            rating: 5,
+            priceOfHours: 40
+      },  
+]
